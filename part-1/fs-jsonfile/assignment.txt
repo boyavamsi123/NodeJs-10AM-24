@@ -1,0 +1,8 @@
+1.read users.json file and print all user names
+2.read users.json file and write into new json file.
+3.read users.json file and write all male/female users into new male.json file.
+
+asynchronous:
+1.callback
+2.promise
+3.async,await
